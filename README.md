@@ -1,5 +1,9 @@
 # About Me:
-- Cyber Security & Forensics undergrad passionate about ethical hacking and digital defense<br>- I enjoy projects related to security automation, detection engineering, and front-end development.<br>- Hands-on with Wireshark, Nmap, IPTables — and diving into OSINT and SIEM strategies<br>- Completed virtual simulations with Deloitte, Mastercard, and Accenture on real-world cyber threats<br>- Former campus ambassador and outreach lead — balancing tech with teamwork<br>- Currently learning more about web security, WordPress development, and contributing to open-source
+-Cyber Security & Forensics undergrad passionate about ethical hacking and digital defense<br>- I enjoy projects related to security automation, detection engineering, and front-end development
+-Hands-on with Wireshark, Nmap, IPTables — and diving into OSINT and SIEM strategies
+-Completed virtual simulations with Deloitte, Mastercard, and Accenture on real-world cyber threats
+-Former campus ambassador and outreach lead — balancing tech with teamwork
+-Currently learning more about web security, WordPress development, and contributing to open-source
 
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunpreet--kaur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunpreet2809@gmail.com)
