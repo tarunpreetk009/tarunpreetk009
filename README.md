@@ -1,4 +1,4 @@
-# About Me:
+## About Me:
 <br>- Cyber Security & Forensics undergrad passionate about ethical hacking and digital defense<br>- I enjoy projects related to security automation, detection engineering, and front-end development<br>- Hands-on with Wireshark, Nmap, IPTables — and diving into OSINT and SIEM strategies<br>- Completed virtual simulations with Deloitte, Mastercard, and Accenture on real-world cyber threats<br>- Former campus ambassador and outreach lead — balancing tech with teamwork<br>- Currently learning more about web security, WordPress development, and contributing to open-source
 
 ## Connect with Me:
@@ -18,5 +18,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunpreetk009&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-
-[Tarunpreet_Kaur_Resume.pdf](https://github.com/user-attachments/files/21351313/Tarunpreet_Kaur_Resume.pdf)
