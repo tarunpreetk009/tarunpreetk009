@@ -13,9 +13,10 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-# GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tarunpreetk009&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunpreetk009&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 [Tarunpreet_Kaur_Resume.pdf](https://github.com/user-attachments/files/21351313/Tarunpreet_Kaur_Resume.pdf)
