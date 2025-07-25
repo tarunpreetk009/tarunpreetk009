@@ -1,6 +1,10 @@
 ## About Me:
-<br>- Cyber Security & Forensics undergrad passionate about ethical hacking and digital defense<br>- I enjoy projects related to security automation, detection engineering, and front-end development<br>- Hands-on with Wireshark, Nmap, IPTables — and diving into OSINT and SIEM strategies<br>- Completed virtual simulations with Deloitte, Mastercard, and Accenture on real-world cyber threats<br>- Former campus ambassador and outreach lead — balancing tech with teamwork<br>- Currently learning more about web security, WordPress development, and contributing to open-source
-
+- Cybersecurity undergrad with a passion for ethical hacking, digital forensics, and web security.
+- Proficient in C, Python, JavaScript, and security tools like Wireshark, Nmap, and Snort.
+- Built projects including a Dark Web OSINT tool, password manager, and cyber threat aggregator.
+- Completed internships with Forage, MyCaptain, Portwol, and Lok Kalyan Samiti.
+- Earned 20+ certifications and ranked in the top 2% on TryHackMe.
+- 
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunpreet--kaur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunpreet2809@gmail.com)
 
