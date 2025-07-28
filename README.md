@@ -10,7 +10,7 @@
 
 ## Resume:
 
-[Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/21428492/Tarunpreet_Resume.pdf)
+[Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/21466149/Tarunpreet_Resume.pdf)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
