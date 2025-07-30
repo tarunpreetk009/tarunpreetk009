@@ -1,6 +1,6 @@
 ## About Me:
 - Cybersecurity undergrad with a passion for ethical hacking, digital forensics, and web security.
-- Proficient in C, Python, JavaScript, and security tools like Wireshark, Nmap, and Snort.
+- Proficient in C, Python, JavaScript, and security tools like Wireshark and Nmap.
 - Built projects including a Dark Web OSINT tool, password manager, and cyber threat aggregator.
 - Completed internships with Forage, MyCaptain, Portwol, and Lok Kalyan Samiti.
 - Earned 20+ certifications and ranked in the top 2% on TryHackMe.
