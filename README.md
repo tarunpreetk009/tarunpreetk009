@@ -2,7 +2,7 @@
 
 #  Tarunpreet Kaur | Cyber-Security Enthusiast
 
-### *"Securing the digital frontier, one vulnerability at a time"* 🔒
+### *"Securing the digital frontier, one vulnerability at a time"* 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunpreet--kaur) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunpreet2809@gmail.com)
@@ -17,7 +17,7 @@
 
 **Cybersecurity undergraduate at UPES** specializing in **Cyber Security & Digital Forensics**. Currently serving as **Cyber Threat Intelligence Intern at Castelleum Labs**, with proven expertise in threat analysis, penetration testing, and secure application development.
 
-** Key Achievements:**
+**Key Achievements:**
 - **Top 2% on TryHackMe** | 50+ Security Labs Completed
 - **20+ Professional Certifications** (Google, IBM, Cisco, TCM Security)
 - **4+ Industry Internships** (Castelleum Labs, IBM, Forage Simulations)
