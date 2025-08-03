@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Tarunpreet Kaur | Cyber-Security Enthusiast
+#  Tarunpreet Kaur | Cyber-Security Enthusiast
 
 ### *"Securing the digital frontier, one vulnerability at a time"* 🔒
 
@@ -13,63 +13,63 @@
 
 ---
 
-## 🎯 Professional Summary
+## Summary
 
-**Cybersecurity undergraduate at UPES** (CGPA: 7.96/10) specializing in **Cyber Security & Digital Forensics**. Currently serving as **Cyber Threat Intelligence Intern at Castelleum Labs**, with proven expertise in threat analysis, penetration testing, and secure application development.
+**Cybersecurity undergraduate at UPES** specializing in **Cyber Security & Digital Forensics**. Currently serving as **Cyber Threat Intelligence Intern at Castelleum Labs**, with proven expertise in threat analysis, penetration testing, and secure application development.
 
-**🏆 Key Achievements:**
-- 🥇 **Top 2% on TryHackMe** | 50+ Security Labs Completed
-- 🎯 **20+ Professional Certifications** (Google, IBM, Cisco, TCM Security)
-- 💼 **4+ Industry Internships** (Castelleum Labs, IBM, Forage Simulations)
-- 🧠 **450+ LeetCode Problems Solved**
-- 🔍 **15+ Threat Campaigns Researched** | 10+ Detection Rules Drafted
+** Key Achievements:**
+- **Top 2% on TryHackMe** | 50+ Security Labs Completed
+- **20+ Professional Certifications** (Google, IBM, Cisco, TCM Security)
+- **4+ Industry Internships** (Castelleum Labs, IBM, Forage Simulations)
+- **450+ LeetCode Problems Solved**
+- **15+ Threat Campaigns Researched** | 10+ Detection Rules Drafted
 
 ---
 
-## 💼 Current Role & Experience
+## Current Role & Experience
 
-### 🔥 **Cyber Threat Intelligence Intern** | Castelleum Labs
+### **Cyber Threat Intelligence Intern** | Castelleum Labs
 *June 2025 - Present*
-- 🕷️ **Dark Web Monitoring** & adversary profiling
-- 📊 **Threat Campaign Analysis** (15+ emerging threats)
-- 🛡️ **IOC Detection Rules** development for enterprise environments
+- **Dark Web Monitoring** & adversary profiling
+- **Threat Campaign Analysis** (15+ emerging threats)
+- **IOC Detection Rules** development for enterprise environments
 
-### 💻 **Project Intern** | IBM *(June - July 2025)*
-- 🏢 **Secure Visitor Management System** (PHP-based)
-- 🔐 **200+ Daily Entry Processing** with real-time tracking
-- 🎯 **Access Control Enhancement** & monitoring optimization
+### **Project Intern** | IBM *(June - July 2025)*
+- **Secure Visitor Management System** (PHP-based)
+- **200+ Daily Entry Processing** with real-time tracking
+- **Access Control Enhancement** & monitoring optimization
 
 ---
 
-## 🚀 Featured Security Projects
+## Featured Security Projects
 
-### 🕸️ **Dark Web OSINT Intelligence Platform**
+### **Dark Web OSINT Intelligence Platform**
 *Advanced Threat Intelligence Tool*
-- 🔍 **1,000+ Dark Web Links** automated scanning
-- ⚡ **30% Faster Data Extraction** vs manual methods
-- 📊 **JSON/CSV Export** with keyword filtering & remediation tagging
-- 🛠️ **Tech Stack:** Python, TOR, Puppeteer, BeautifulSoup
+- **1,000+ Dark Web Links** automated scanning
+- **30% Faster Data Extraction** vs manual methods
+- **JSON/CSV Export** with keyword filtering & remediation tagging
+- **Tech Stack:** Python, TOR, Puppeteer, BeautifulSoup
 
-### ⚡ **Real-time Cybersecurity News Aggregator**
+### **Real-time Cybersecurity News Aggregator**
 *"A Digital Watchdog"*
-- 📰 **100+ Security Sources** aggregation
-- 🚀 **Sub-2 Second Latency** performance
-- 📈 **20% Noise Reduction** with intelligent filtering
-- 📊 **Threat Trend Visualization** with Chart.js
-- 🛠️ **Tech Stack:** Flask, MongoDB, BeautifulSoup, Chart.js
+- **100+ Security Sources** aggregation
+- **Sub-2 Second Latency** performance
+- **20% Noise Reduction** with intelligent filtering
+- **Threat Trend Visualization** with Chart.js
+- **Tech Stack:** Flask, MongoDB, BeautifulSoup, Chart.js
 
-### 🔐 **Enterprise Security Suite**
+### **Enterprise Security Suite**
 *6 Mini Projects Collection*
-- 💰 **Budget Tracker** with expense visualization
-- ⏰ **Custom Countdown Timer** for security events
-- 🔑 **Password Manager** with secure local storage
-- 📋 **Task Management System** with real-time updates
-- 🏪 **Café Ordering System** (CLI-based)
-- 📱 **QR Code Generator** for secure data sharing
+- **Budget Tracker** with expense visualization
+- **Custom Countdown Timer** for security events
+- **Password Manager** with secure local storage
+- **Task Management System** with real-time updates
+- **Café Ordering System** (CLI-based)
+- **QR Code Generator** for secure data sharing
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 ### **Programming & Scripting**
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -95,18 +95,18 @@
 
 ---
 
-## 🏆 Professional Certifications
+## Professional Certifications
 
 ### **Security Certifications**
-- 🔐 **Certified API Security Analyst (CASA)**
-- 📋 **ISO/IEC 27001:2022 Lead Auditor** | MASTERMIND ASSURANCE
-- 🌐 **Introduction to Cybersecurity** | CISCO
-- 🎓 **20+ Additional Certifications** from Google, IBM, LinkedIn Learning, Coursera, TCM Security
+- **Certified API Security Analyst (CASA)**
+- **ISO/IEC 27001:2022 Lead Auditor** | MASTERMIND ASSURANCE
+- **Introduction to Cybersecurity** | CISCO
+- **20+ Additional Certifications** from Google, IBM, LinkedIn Learning, Coursera, TCM Security
 
 ### **Security Training & Bootcamps**
-- 🚩 **NIT Kurukshetra Information & Cyber Security Bootcamp** (CTF Labs)
-- 🛡️ **Drone Security & Data Privacy Workshops** | NIT Kurukshetra
-- 💼 **Cybersecurity Simulations** | Forage (Tata, Mastercard, Accenture, Deloitte)
+- **NIT Kurukshetra Information & Cyber Security Bootcamp** (CTF Labs)
+- **Drone Security & Data Privacy Workshops** | NIT Kurukshetra
+- **Cybersecurity Simulations** | Forage (Tata, Mastercard, Accenture, Deloitte)
 
 ---
 
@@ -118,33 +118,31 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunpreetk009&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarunpreetk009&theme=radical&hide_border=true)
-
 </div>
 
 ---
 
-## 🎯 Leadership & Community Impact
+## Leadership & Community Impact
 
 ### **Campus Leadership**
-- 🏆 **Marketing Campus Ambassador** | MyCaptain *(20% signup increase)*
-- 📈 **PR Sponsorship Member** | Portwol *(15% engagement improvement)*
-- 🤝 **PR & Sponsorship Core Member** | UPES ACM Student Chapter *(1 full term)*
+- **Marketing Campus Ambassador** | MyCaptain *(20% signup increase)*
+- **PR Sponsorship Member** | Portwol *(15% engagement improvement)*
+- **PR & Sponsorship Core Member** | UPES ACM Student Chapter *(1 full term)*
 
 ### **Community Engagement**
-- 👨‍🏫 **Trained 80+ underprivileged students** in MS Excel & Google Sheets
-- 📚 **30% improvement in learner understanding** through innovative teaching methods
-- 📸 **Digital archiving of 5+ outreach events** for campaign visibility
+- **Trained 80+ underprivileged students** in MS Excel & Google Sheets
+- **30% improvement in learner understanding** through innovative teaching methods
+- **Digital archiving of 5+ outreach events** for campaign visibility
 
 ---
 
-## 📄 Professional Portfolio
+## Professional Portfolio
 
-**📋 Comprehensive Resume:** [Download Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/21564358/Tarunpreet_Resume.pdf)
+**Resume:** [Download Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/21564358/Tarunpreet_Resume.pdf)
 
 ---
 
-## 🌟 Daily Inspiration
+## Daily Inspiration
 
 <div align="center">
 
@@ -156,14 +154,14 @@
 
 <div align="center">
 
-### 🤝 **Let's Collaborate on Cybersecurity Innovation!**
+### **Let's Collaborate on Cybersecurity Innovation!**
 
 *Open to collaborations in threat intelligence, security research, and ethical hacking projects*
 
-**📧 Contact:** tarunpreet2809@gmail.com | **📱 Phone:** +919915925911
+**Contact:** tarunpreet2809@gmail.com | **Phone:** +919915925911
 
 ---
 
-*Last Updated: August 2025* | *Made with ❤️ for the cybersecurity community*
+*Made with ❤️ for the cybersecurity community*
 
 </div>
