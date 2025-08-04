@@ -158,7 +158,7 @@
 
 *Open to collaborations in threat intelligence, security research, and ethical hacking projects*
 
-**Contact:** tarunpreet2809@gmail.com | **Phone:** +919915925911
+**Contact:** tarunpreet2809@gmail.com 
 
 ---
 
