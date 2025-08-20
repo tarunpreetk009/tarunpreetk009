@@ -1,4 +1,4 @@
-<div align="center">
+[Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/21883062/Tarunpreet_Resume.pdf)<div align="center">
 
 #  Tarunpreet Kaur | Cyber-Security Enthusiast
 
@@ -138,7 +138,8 @@
 
 ## Professional Portfolio
 
-**Resume:** [Download Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/21564358/Tarunpreet_Resume.pdf)
+**Resume:** [Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/21883066/Tarunpreet_Resume.pdf)
+
 
 ---
 
