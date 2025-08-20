@@ -1,4 +1,4 @@
-[Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/21883062/Tarunpreet_Resume.pdf)<div align="center">
+<div align="center">
 
 #  Tarunpreet Kaur | Cyber-Security Enthusiast
 
