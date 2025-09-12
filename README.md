@@ -138,7 +138,7 @@
 
 ## Professional Portfolio
 
-**Resume:** [Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/21883066/Tarunpreet_Resume.pdf)
+**Resume:** [Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/22294347/Tarunpreet_Resume.pdf)
 
 
 ---
