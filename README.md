@@ -21,7 +21,7 @@
 - **Top 2% on TryHackMe** | 50+ Security Labs Completed
 - **20+ Professional Certifications** (Google, IBM, Cisco, TCM Security)
 - **4+ Industry Internships** (Castelleum Labs, IBM, Forage Simulations)
-- **450+ LeetCode Problems Solved**
+- **500+ LeetCode Problems Solved**
 - **15+ Threat Campaigns Researched** | 10+ Detection Rules Drafted
 
 ---
@@ -138,7 +138,7 @@
 
 ## Professional Portfolio
 
-**Resume:** [Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/22869771/Tarunpreet_Resume.pdf)
+**Resume:** [Tarunpreet_Resume.pdf](https://github.com/user-attachments/files/23740014/Tarunpreet_Resume.pdf)
 
 
 ---
